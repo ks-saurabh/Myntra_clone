@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#head {
+    background-color: aquamarine;
+    height: 25px;
+    width: 100vw;
+    padding: 10px;
+}
+#nav {
+    
+    display: flex;
+    align-content: space-around;
+
+}
+#home {
+    background-color: red;
+}
